@@ -1,0 +1,6 @@
+2025-07-26 17:31:16,494 - INFO - --- Application Starting ---
+2025-07-26 17:31:16,494 - INFO - Appending project root to system path...
+2025-07-26 17:31:16,494 - INFO - Path appended successfully.
+2025-07-26 17:31:16,495 - INFO - Importing application modules...
+2025-07-26 17:31:20,534 - ERROR - An unhandled exception occurred: DLL load failed while importing _framework_bindings: A dynamic link library (DLL) initialization routine failed.
+2025-07-26 17:31:20,534 - ERROR - Full traceback has been saved to crash.log
