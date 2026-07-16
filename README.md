@@ -69,6 +69,8 @@ Main files:
     └── history/           # Translation history management
 ```
 
+<img width="1200" height="400" alt="image" src="https://github.com/user-attachments/assets/3645fb69-e357-4c57-ba40-11ee1132e8f0" />
+
 ## Team VYARK
 
 1. Vishal Meyyappan R - @vishal-r07 - ML creation and lead programmer
