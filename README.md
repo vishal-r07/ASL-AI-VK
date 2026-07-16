@@ -43,7 +43,7 @@ python main.py
 2. This model requries tensorflow, mediapipe, these requires "environment" i.e .venv
 3. The model Requires 10 MB storage
 4. Make sure you run the "run.py"
-5. contact of me at my personal website ```https://vishal-r07.github.io/vishal-r/intro.html``` for any issues. 
+5. contact of me at my personal website <https://vishal-r07.github.io/vishal-r/intro/index.html> for any issues. 
 
 ## Data Folder:
 Due to storage issue and not recuried for running this project I removed it. If incase developing the model or want to train it more words, here is the folder link:
