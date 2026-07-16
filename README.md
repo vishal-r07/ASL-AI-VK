@@ -77,7 +77,7 @@ Main files:
 2. Kishore V S - @Kishore-vs - UI designer and lead programmer
 3. Ashwin R - @ashwinr-act-cit - Dataset management and ML creation
 4. Rayhan Hameed - @Ray-5106 - Dataset management and GUI supervisor
-5. Yuvan Shankar - lead programmer and ML trainner
+5. Yuvan Shankar - @yuvan-1086 - lead programmer and ML trainner
 
 ## License
 
