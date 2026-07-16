@@ -2,6 +2,7 @@
 
 A desktop application that translates American Sign Language (ASL) gestures and facial emotions in real-time using a webcam. This application is designed for people who are deaf or mute to help them communicate more effectively.
 
+
 ## Features
 
 - Real-time hand gesture detection using MediaPipe Hands
