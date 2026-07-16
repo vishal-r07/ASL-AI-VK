@@ -69,6 +69,14 @@ Main files:
     └── history/           # Translation history management
 ```
 
+## Team VYARK
+
+1. Vishal Meyyappan R - @vishal-r07 - ML creation and lead programmer
+2. Kishore V S - @Kishore-vs - UI designer and lead programmer
+3. Ashwin R - @ashwinr-act-cit - Dataset management and ML creation
+4. Rayhan Hameed - @Ray-5106 - Dataset management and GUI supervisor
+5. Yuvan Shankar - lead programmer and ML trainner
+
 ## License
 
-All rights reserved by Vishal Meyyappan R and his teammate Kishore V S
+All rights reserved by VYARK team
